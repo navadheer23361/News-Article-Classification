@@ -11,3 +11,6 @@ This project aims to detect whether a news article is **real** or **fake** using
 - Trained on labeled dataset of real and fake news articles
 - Cleaned using NLP techniques: stopword removal, lemmatization, punctuation handling
 - Achieves high accuracy on unseen samples
+
+
+## Please download the *link.pdf* to open the streamlit website
